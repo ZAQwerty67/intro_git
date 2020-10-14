@@ -5,3 +5,5 @@ gitcommit
 
 
 rm
+
+gitstatus

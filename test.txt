@@ -1,2 +1,4 @@
 test
 addon
+gitadd
+gitcommit

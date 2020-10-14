@@ -1,9 +1,5 @@
-test
-addon
-gitadd
-gitcommit
-
-
-rm
-
-gitstatus
+git init 最初に実行
+git add test.txt ステージングにファイルを追加（ファイル指定なしもOK）
+git commit -v ステージングから追加
+git status 状態を確認（ステージングに入れているか、ステージングで止まっているか）
+git log 追加したログを確認(-n 3 , --oneline)
